@@ -122,17 +122,12 @@ params:
             - name: Tags
               url: tags
 
-    # homeInfoParams:
+    homeInfoParams:
         Title: "Kertas"
         Content: >
             Welcome to Kertas Offial Website.
 
-            - **Kertas** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/wilfauzy/kertas).
-
+            
     socialIcons:
         - name: github
           url: "https://github.com/adityatelange/hugo-PaperMod"
